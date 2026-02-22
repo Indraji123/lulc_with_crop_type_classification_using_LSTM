@@ -2,7 +2,7 @@
 
 ## classification output
 
-![Classification Output](lulc_with_crop_type_classification_using_LSTM\assests\multiclass_classification.png)
+![Classification Output](assests/multiclass_classification.png)
 
 <!-- The above diagram shows the LSTM-based classification workflow.
 
