@@ -2,5 +2,5 @@
 
 ![Classification Output](assests/multiclass_classification.png)
 
-![Confidence_label](assets/confidence_label_probablity.png)
+![Confidence_label](assests/confidence_label_probablity.png)
 
