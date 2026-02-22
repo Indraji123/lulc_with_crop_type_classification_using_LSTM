@@ -4,3 +4,6 @@
 
 ![Confidence_label](assests/confidence_label_probablity.png)
 
+
+![low_confidence](assests/edge_isssue.png)
+
