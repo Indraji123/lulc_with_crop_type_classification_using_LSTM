@@ -2,7 +2,7 @@
 
 ## classification output
 
-!(assets/multiclass_classification.png)
+![Classification Output](assets/multiclass_classification.png)
 
 <!-- The above diagram shows the LSTM-based classification workflow.
 
